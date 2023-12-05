@@ -1,6 +1,6 @@
 [package]
 name = "imgui_styles"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 authors = ["Viktor Polevoi <maintainer@vpolevoy.com>"]
 description = "A collection of immediate gui themes"
@@ -8,7 +8,7 @@ readme = "README.md"
 license = "MIT"
 keywords = ["imgui", "egui", "themes", "styles"]
 categories = ["gui", "visualization"]
-repository = "https://github.com/vityafx/imgui_styles"
+repository = "https://github.com/iddm/imgui_styles"
 documentation = "https://docs.rs/imgui_styles"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
